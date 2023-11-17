@@ -19,9 +19,9 @@ Route::get('/', function () {
 })->middleware('auth');
 
 Route::get('/login', function(){
-    return redirect('http://127.0.0.1:8000/login');
+    return redirect('http://apps1.digitalevent.id/login');
 })->name('login');
 
 Route::get('/logout', function(){
-    return redirect('http://127.0.0.1:8000/logout');
+    return redirect('http://apps1.digitalevent.id/logout');
 })->name('logout');
