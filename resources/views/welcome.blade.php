@@ -51,9 +51,9 @@
                 </div>
                 <div class="card-body justify-content-center text-center">
                     Jump To
-                    <a href="http://127.0.0.1:8000" class="btn btn-primary" type="button">App 1</a>
+                    <a href="http://apps1.digitalevent.id" class="btn btn-primary" type="button">App 1</a>
                     Or 
-                    <a href="http://127.0.0.1:8001" class="btn btn-success" type="button">App 2</a>
+                    <a href="http://apps2.digitalevent.id" class="btn btn-success" type="button">App 2</a>
                 </div>
             </div>
             
